@@ -3,8 +3,8 @@
 ; Algoritmo com XOR
 
 main:
-	movi r0, 10
-	movi r1, 20
+	movi r2, 10
+	movi r3, 20
 
 _xor:
 	xor r2, r0, r1
